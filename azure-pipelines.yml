@@ -19,7 +19,7 @@ steps:
   inputs:
     buildContext: '$(Build.Repository.LocalPath)'
     containerRegistry: 'DockerHdO'
-    repository: 'ismaelrsousa/HdO'
+    repository: 'IsmaelCDB/HdO'
     command: 'buildAndPush'
     tags: |
       latest

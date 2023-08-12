@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name : Ismael
+  name : IsmaelCDB
 
 variables:
   solution: '**/*.sln'
